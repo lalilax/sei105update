@@ -4,8 +4,6 @@
 
 ## Kurulum | Installation
 
-![three](https://pbs.twimg.com/profile_images/1512563538388262912/PhMo-yc__400x400.jpg)
-
 ## [TR]
 Artık bu forum adresinde içerik yazıyorum rehbere gitmek için tıklayınız
 
@@ -15,3 +13,5 @@ Artık bu forum adresinde içerik yazıyorum rehbere gitmek için tıklayınız
 Now I am writing content on this forum address, click to go to the guide
 
 [https://testnet.huginn.academy/d/14-sei-network-105-guncelleme-rehberi](https://testnet.huginn.academy/d/14-sei-network-105-guncelleme-rehberi)
+
+![three](https://pbs.twimg.com/profile_images/1512563538388262912/PhMo-yc__400x400.jpg)
