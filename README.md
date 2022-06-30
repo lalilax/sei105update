@@ -1,4 +1,4 @@
-# SEI 1.0.55beta Güncelleme Scripti | Upgrade Script SEI 1.0.5beta
+# SEI 1.0.5beta Güncelleme Scripti | Upgrade Script SEI 1.0.5beta
 
 ![three](https://cdn.discordapp.com/attachments/985345620220977212/992154316582440970/GITHUB_COVER.png)
 
